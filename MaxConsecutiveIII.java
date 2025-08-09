@@ -1,4 +1,4 @@
-class Solution {
+class MaxConsecutiveIII {
     public int longestOnes(int[] nums, int k) {
         int l=0 , r=0;
         int maxcons1=0, cnt0=0;
