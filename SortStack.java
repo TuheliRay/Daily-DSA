@@ -1,4 +1,4 @@
-class Solution {
+class SortStack {
     public void sortStack(Stack<Integer> st) {
         // code here
         if(!st.isEmpty()){
